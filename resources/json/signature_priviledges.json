@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "Single Document Signature",
+        "code" : "single_document_signature",
+        "price" : 200,
+        "duration_unit" : "",
+        "duration" : 0,
+        "max_within_duration" : 0
+    },
+    {
+        "name" : "Monthly Document Signature",
+        "code" : "monthly_document_signature",
+        "price" : 4000,
+        "duration_unit" : "months",
+        "duration" : 1,
+        "max_within_duration" : 10
+    },
+    {
+        "name" : "Bi-Annual Document Signature",
+        "code" : "bi_annual_document_signature",
+        "price" : 10000,
+        "duration_unit" : "months",
+        "duration" : 6,
+        "max_within_duration" : 20
+    },
+    {
+        "name" : "Annual Document Signature",
+        "code" : "annual_document_signature",
+        "price" : 40000,
+        "duration_unit" : "years",
+        "duration" : 1,
+        "max_within_duration" : 50
+    }
+]

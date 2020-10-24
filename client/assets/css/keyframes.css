@@ -1,0 +1,6 @@
+@keyframes colorLoading {
+    0%   {background-color: transparent;}
+    25%  {background-color: #fcd462;;}
+    75%  {background-color: #fcd462;;}
+    100% {background-color: transparent;}
+}

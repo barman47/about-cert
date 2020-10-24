@@ -1,0 +1,186 @@
+{
+    "event_name": "folder_signed",
+    "event_date": 1587290189127,
+    "data": {
+        "folder": {
+            "folderId": 3363231,
+            "folderName": "Confidential PDF-SbWp1O8nHVDR9DowDaEJ2xQxRzRCXp",
+            "folderCustomName": "${doc_name}",
+            "folderPassword": null,
+            "folderAuthorId": 1998245,
+            "folderAuthorFirstName": "David",
+            "folderAuthorLastName": "Odegoke",
+            "folderAuthorEmail": "davexoyinbo@gmail.com",
+            "folderAuthorRole": "super_admin",
+            "folderCompanyId": 57789,
+            "folderCreationDate": 1587288914000,
+            "folderSentDate": 1587288950000,
+            "folderStatus": "PARTIALLY SIGNED",
+            "custom_field1": {
+                "name": "signature_send_marker",
+                "value": "d22536a2-c945-4d6e-9b70-9835a69ba526"
+            },
+            "custom_field2": {
+                "name": null,
+                "value": null
+            },
+            "folderDocumentIds": [
+                3785363
+            ],
+            "documentsList": [
+                {
+                    "documentId": 3785363,
+                    "contractId": 3785363,
+                    "companyId": 57789,
+                    "contractCreatedBy": 1998245,
+                    "contractCreatedOn": 1587288914000,
+                    "contractType": null,
+                    "contractStatus": "WAITING_FOR_SIGNATURE",
+                    "editable": false,
+                    "contractVersionId": 3785355,
+                    "contractVersionName": "Confidential PDF",
+                    "contractVersionDesc": null,
+                    "versionCreatedby": 1998245,
+                    "versionCreatedOn": 1587288914000,
+                    "contractVersionNumber": 1,
+                    "contractTransactionSource": null
+                }
+            ],
+            "folderRecipientParties": [
+                {
+                    "partyId": 2104507,
+                    "partyDetails": {
+                        "partyId": 2104507,
+                        "firstName": "Sunday",
+                        "lastName": "Joseph",
+                        "emailId": "sunday@email.com",
+                        "address": null,
+                        "dateCreated": 1587148605000,
+                        "optOutEmails": false,
+                        "authenticationLevel": "NO"
+                    },
+                    "contractPermissions": "FILL_FIELDS_AND_SIGN",
+                    "partySequence": 1,
+                    "workflowSignSequence": 1,
+                    "envelopeId": 3363231,
+                    "sharingMode": "email",
+                    "folderAccessURL": null,
+                    "securityMode": "none",
+                    "extraComments": null,
+                    "allowNameChange": false,
+                    "signerNameUpdated": false,
+                    "signatureId": null
+                },
+                {
+                    "partyId": 2108145,
+                    "partyDetails": {
+                        "partyId": 2108145,
+                        "firstName": "Adedayo",
+                        "lastName": "Aderinto",
+                        "emailId": "dayo@email.com",
+                        "address": null,
+                        "dateCreated": 1587288914000,
+                        "optOutEmails": false,
+                        "authenticationLevel": "NO"
+                    },
+                    "contractPermissions": "FILL_FIELDS_AND_SIGN",
+                    "partySequence": 2,
+                    "workflowSignSequence": 2,
+                    "envelopeId": 3363231,
+                    "sharingMode": "email",
+                    "folderAccessURL": null,
+                    "securityMode": "none",
+                    "extraComments": null,
+                    "allowNameChange": false,
+                    "signerNameUpdated": false,
+                    "signatureId": null
+                }
+            ],
+            "folderAccessURLForAuthor": null,
+            "boardRoomSign": false,
+            "bulkId": 0,
+            "enforceSignWorkflow": false,
+            "currentWorkflowStep": 1,
+            "transactionSource": "API-1013-via_file_upload",
+            "editable": false,
+            "inPersonSignable": false,
+            "overrideAccountReminders": false,
+            "overrideAccountRecipientDelegation": false,
+            "allowRecipientsToDelegate": false,
+            "envelopeId": 3363231,
+            "envelopeName": "Confidential PDF-SbWp1O8nHVDR9DowDaEJ2xQxRzRCXp",
+            "envelopeOriginatorId": 1998245,
+            "envelopeCompanyId": 57789,
+            "envelopeDate": 1587288914000,
+            "envelopeSharedDate": 1587288950000,
+            "envelopeStatus": "PARTIALLY SIGNED",
+            "envelopeContractIds": [
+                3785363
+            ],
+            "envelopePartyPermissions": [
+                {
+                    "partyId": 2104507,
+                    "partyDetails": {
+                        "partyId": 2104507,
+                        "firstName": "Sunday",
+                        "lastName": "Joseph",
+                        "emailId": "sunday@email.com",
+                        "address": null,
+                        "dateCreated": 1587148605000,
+                        "optOutEmails": false,
+                        "authenticationLevel": "NO"
+                    },
+                    "contractPermissions": "FILL_FIELDS_AND_SIGN",
+                    "partySequence": 1,
+                    "workflowSignSequence": 1,
+                    "envelopeId": 3363231,
+                    "sharingMode": "email",
+                    "folderAccessURL": null,
+                    "securityMode": "none",
+                    "extraComments": null,
+                    "allowNameChange": false,
+                    "signerNameUpdated": false,
+                    "signatureId": null
+                },
+                {
+                    "partyId": 2108145,
+                    "partyDetails": {
+                        "partyId": 2108145,
+                        "firstName": "Adedayo",
+                        "lastName": "Aderinto",
+                        "emailId": "dayo@email.com",
+                        "address": null,
+                        "dateCreated": 1587288914000,
+                        "optOutEmails": false,
+                        "authenticationLevel": "NO"
+                    },
+                    "contractPermissions": "FILL_FIELDS_AND_SIGN",
+                    "partySequence": 2,
+                    "workflowSignSequence": 2,
+                    "envelopeId": 3363231,
+                    "sharingMode": "email",
+                    "folderAccessURL": null,
+                    "securityMode": "none",
+                    "extraComments": null,
+                    "allowNameChange": false,
+                    "signerNameUpdated": false,
+                    "signatureId": null
+                }
+            ],
+            "envelopeAuthenticationLevel": "NO",
+            "allowSingleSignerInBulk": false
+        },
+        "signing_party": {
+            "partyId": 2104507,
+            "firstName": "Sunday",
+            "lastName": "Joseph",
+            "emailId": "sunday@email.com",
+            "address": null,
+            "dateCreated": 1587148605000,
+            "optOutEmails": false,
+            "authenticationLevel": "NO"
+        },
+        "signed_from_ip": "105.112.97.111"
+    },
+    "signature": "gAN+jObpuoaXKqY3zwCVkll5Rz1jMfK6gsgoQtieUs8="
+}

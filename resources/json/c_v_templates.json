@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "CV1",
+        "preview_img" : "cv1",
+        "template_file" : "CV1/index",
+        "group": "free"
+    },
+    {
+        "name" : "CV2",
+        "preview_img" : "cv2",
+        "template_file" : "CV2/index",
+        "group": "free"
+    },
+    {
+        "name" : "CV3",
+        "preview_img" : "cv3",
+        "template_file" : "CV3/index",
+        "group": "free"
+    },
+    {
+        "name" : "Third",
+        "preview_img" : "third",
+        "template_file" : "first",
+        "group" : "pack_one"
+    },
+    {
+        "name" : "Fourth",
+        "preview_img" : "fourth",
+        "template_file" : "first",
+        "group" : "pack_one"
+    }
+]

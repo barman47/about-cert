@@ -1,0 +1,25 @@
+[
+    {
+        "name" : "Tailored",
+        "group_code" : "tailored"
+    },
+    {
+        "name": "On Order",
+        "group_code": "on_order"
+    },
+    {
+        "name" : "Free",
+        "group_code" : "free",
+        "price": "0"
+    },
+    {
+        "name": "Pack One",
+        "group_code": "pack_one",
+        "price": "2000"
+    },
+    {
+        "name": "Pack Two",
+        "group_code": "pack_two",
+        "price": "2000"
+    }
+]

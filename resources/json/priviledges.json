@@ -1,0 +1,36 @@
+[
+    {
+        "name" : "Administrator",
+        "code" : "admin",
+        "type" : "access"
+    },
+    {
+        "name" : "Opportunity Maker",
+        "code" : "opportunity_maker",
+        "type" : "opportunity_maker"
+    },
+    {
+        "name" : "Template Group Free",
+        "code" : "free_template_group",
+        "type" : "template_group"
+    },
+    {
+        "name" : "Template",
+        "code" : "template",
+        "type" : "template"
+    },
+    {
+        "name" : "Template Group",
+        "code" : "template_group",
+        "type" : "template_group"
+    },
+
+
+
+    {
+        "name" : "Signature Access",
+        "code" : "signature",
+        "type" : "signature"
+    }
+
+]

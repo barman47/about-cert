@@ -1,0 +1,41 @@
+{
+	"authHost": "https://de080d593c39.ngrok.io/aboutcert/public",
+	"authEndpoint": "/api/broadcasting/auth",
+	"clients": [
+		{
+			"appId": "99f2e907802e3521",
+			"key": "111b67b2031c3f1219775e53101ff8cb"
+		},
+		{
+			"appId": "AboutcertWebApp",
+			"key": "d520daa9a23787ab1a0c2544c9fa9be3"
+		}
+	],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {},
+		"sqlite": {
+			"databasePath": "/database/laravel-echo-server.sqlite"
+		}
+	},
+	"devMode": true,
+	"host": null,
+	"port": "6001",
+	"protocol": "http",
+	"socketio": {},
+	"secureOptions": 67108864,
+	"sslCertPath": "",
+	"sslKeyPath": "",
+	"sslCertChainPath": "",
+	"sslPassphrase": "",
+	"subscribers": {
+		"http": true,
+		"redis": true
+	},
+	"apiOriginAllow": {
+		"allowCors": true,
+		"allowOrigin": "*",
+		"allowMethods": "*",
+		"allowHeaders": "*"
+	}
+}
